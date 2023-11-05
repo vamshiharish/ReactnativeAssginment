@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "secondScreenAsignment",
+    "slug": "secondScreenAsignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
